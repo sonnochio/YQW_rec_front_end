@@ -3,7 +3,6 @@ numpy
 matplotlib
 seaborn
 Pillow
-os-sys
 tensorflow
 streamlit
 sklearn
