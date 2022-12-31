@@ -5,4 +5,5 @@ seaborn
 Pillow
 tensorflow
 streamlit
-sklearn
+scikit-learn
+
